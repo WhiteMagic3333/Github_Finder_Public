@@ -9,9 +9,18 @@
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
+} */
 
-code {
+/* code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 } */
+
+.custom-card-image .card.image-full:before{
+  border-radius:0.5rem;
+  opacity: 0.50;
+}
+
+.dp-text{
+  color: rgba(255, 255, 255, 1);
+}
